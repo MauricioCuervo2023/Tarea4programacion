@@ -1,14 +1,3 @@
-"""
-╔══════════════════════════════════════════════════════════════════════╗
-║       SISTEMA INTEGRAL DE GESTIÓN — SOFTWARE FJ                     ║
-║       Clientes · Servicios · Reservas                               ║
-║                                                                      ║
-║  Principios aplicados:                                               ║
-║    • Abstracción      • Herencia        • Polimorfismo               ║
-║    • Encapsulación    • Excepciones     • Logging a archivo          ║
-╚══════════════════════════════════════════════════════════════════════╝
-"""
-
 # ─────────────────────────────────────────────────────────────
 # IMPORTACIONES
 # ─────────────────────────────────────────────────────────────
