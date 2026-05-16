@@ -30,8 +30,9 @@ logger = logging.getLogger("SistemaFJ")
 # ─────────────────────────────────────────────────────────────
 # EXCEPCIONES PERSONALIZADAS
 # ─────────────────────────────────────────────────────────────
+ """Excepción base del sistema Software FJ."""
 class ErrorSistemaFJ(Exception):
-    """Excepción base del sistema Software FJ."""
+    
     pass
 
 
